@@ -1,6 +1,19 @@
-- date: 1 January, 1941
-  headline: "Example news here"
+- date: Dec, 2024
+  headline: "Our paper 'Trustworthy and Practical AI for Healthcare: A Guided Deferral System with Large Language Models' has been accepted by AAAI 2025 for Social Impact Track! 
+This paper explores practical solutions of how LLMs could collaborate with humans in medical report parsing. Congrats to Josh!"
 
-- date: 1 January, 1940
-  headline: "Example news here"
+- date: Nov, 2024
+  headline: "I joined University of Bristol as a Lecturer!"
+
+- date: Oct, 2024
+  headline: "I was invited as a Guest Editor of the Special Issue 'Computer Vision Powered Human-Machine Interaction in Healthcare' for Sensors (IF: 3.4). 
+Welcome to submit a paper. Please find out the call for paper <a href='https://www.mdpi.com/journal/sensors/special_issues/KAJ7UPYI91'>here</a>."
+
+- date: June, 2024
+  headline: "Our paper 'MMSummary: Multimodal Summary Generation for Fetal Ultrasound Video' has been accepted by MICCAI 2024! 
+How can we simplify sonography by processing the recorded ultrasound video after examination? Congrats to Xiaoqing! Please find out more <a href='https://link.springer.com/chapter/10.1007/978-3-031-72083-3_63'>here</a>."
+
+- date: June, 2024
+  headline: "Our paper 'Pose-GuideNet: Automatic Scanning Guidance for Fetal Head Ultrasound from Pose Estimation' has been accepted by MICCAI 2024! 
+Can we guide obstetric sonographer to find the fetal standard view with a digital atlas? Thanks to all my co-authors. Please find out more <a href='https://link.springer.com/chapter/10.1007/978-3-031-72083-3_65'>here</a>."
 
