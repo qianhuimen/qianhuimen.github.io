@@ -1,7 +1,7 @@
 # Site settings
-title: Richard Feynman
-email: richard@university.edu
-description: Academic webpage of Dr. Richard Feynman
+title: Qianhui Men
+email: qianhui.men@bristol.ac.uk
+description: Academic webpage of Dr. Qianhui Men
 baseurl: ""
 url: ""
 
@@ -12,29 +12,30 @@ url: ""
 
 # Footer info
 affiliation: >
-  Richard Feynman<br/>
-  Professor of Physics<br/>
-  California Institute of Technology
+  Qianhui Men<br/>
+  Lecturer (Assistant Professor) of Digital Health<br/>
+  University of Bristol
 
 location: >
-  California Institute of Technology<br/>
-  1200 E California Blvd<br/>
-  Pasadena, CA 91125
-
+  School of Engineering Mathematics and Technology<br/>
+  Ada Lovelace Building<br/>
+  Tankard's Close<br/>
+  Bristol BS8 1TW<br/>
+  United Kingdom
 contact: >
-  <a href="mailto:richard@university.edu" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Richard via email</a> <br/>
-  <a href="https://github.com/sbryngelson/academic-website-template"><i class="fa fa-github fa-1x"></i> Use this site as a template!</a>
+  <a href="mailto:qianhui.men@bristol.ac.uk" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Qianhui via email</a> <br/>
+#<a href="https://github.com/sbryngelson/academic-website-template"><i class="fa fa-github fa-1x"></i> Use this site as a template!</a>
 
 # Pages shown in navbar
 nav_pages:
-  - name: about
+#  - name: about
   - name: publications
-  - name: talks
-  - name: research
-  - name: software
-  - name: team
+  - name: activities
+#  - name: research
+#  - name: software
+#  - name: team
   - name: teaching
-  - name: blogs
+#  - name: blogs
 
 include:
   - .htaccess
