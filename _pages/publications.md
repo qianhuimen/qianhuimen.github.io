@@ -25,6 +25,7 @@ ul {
 <h3>
     2025
 </h3>
+
 <img src="../papers/snapshot/qianhui_mia_2025.png" style="float:left;display:block;margin-right:15px" height="100" width="100" loading="lazy" />
 ScanAhead: Simplifying standard plane acquisition of fetal head ultrasound,<br />
 <span class="text-light"><b>Qianhui Men</b>, He Zhao, Lior Drukker, Aris T. Papageorghiou, J. Alison Noble</span><br />
@@ -35,6 +36,12 @@ ScanAhead: Simplifying standard plane acquisition of fetal head ultrasound,<br /
 Trustworthy and Practical AI for Healthcare: A Guided Deferral System with Large Language Models,<br />
 <span class="text-light">Joshua Strong, <b>Qianhui Men</b>, J. Alison Noble</span><br />
 <i>Proceedings of the AAAI Conference on Artificial Intelligence, 2025</i>
+<br /><br /><br />
+
+<img src="../papers/snapshot/xiaotang_cgf_2025.png" style="float:left;display:block;margin-right:15px" height="100" width="100" loading="lazy" />
+Real‐Time and Controllable Reactive Motion Synthesis via Intention Guidance,<br />
+<span class="text-light">Xiaotang Zhang, Ziyi Chang, <b>Qianhui Men</b>, Hubert P. H. Shum</span><br />
+<i>Computer Graphics Forum, 2025</i>
 <br /><br /><br />
 
 <h3>
