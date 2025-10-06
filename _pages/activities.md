@@ -26,13 +26,15 @@ permalink: /activities/
 
 ### Talks
 
-* <b>Multimodality Visual and Motion Guidance in Obstetric Ultrasound</b> - Data Science Seminar, University of Bristol, Feb. 2025; BioMedIA Seminar, University of Oxford, Feb. 2024; VIViD Seminar, Durham University, Jan. 2024
+* <b>Multimodality Visual and Motion Guidance in Obstetric Ultrasound</b> - Talking Robotics, May 2025; Data Science Seminar, University of Bristol, Feb. 2025; BioMedIA Seminar, University of Oxford, Feb. 2024; VIViD Seminar, Durham University, Jan. 2024
 * <b>Retrieval of spatial–temporal motion topics from 3D skeleton data</b> - Computer Science Seminar, City University of Hong Kong, June 2019
 </div>
 
 <div class="jumbotron">
 ### Academic Services
+* <b>Organization Committee</b>: <a href="https://haic-miccai.github.io/#/">MICCAI Workshop on Human-AI Collaboration, 2025</a> 
 * <b>Supporting Chair</b>: <a href="http://www.mig2019.website/index.html">ACM SIGGRAPH Conference on Motion, Interaction and Games, 2019</a> 
+* <b>Programm Reviewer</b>: Africa Oxford Health Innovation Programme, 2025
 * <b>Scientific Reviewer</b>: <i>Journal</i> - TMI, TNSRE, TCE, TOG, TCSVT, THMS, RA-L, Scientific Reports, Neurocomputing, CAIS, MMS<br />
 <i>Conference</i> - ICML, ICRA, BMVC (outstanding reviewer), MICCAI, SIGGRAPH Asia, Eurographics, Ubi-Media
 </div>
