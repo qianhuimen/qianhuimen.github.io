@@ -25,7 +25,7 @@ ul {
 <h3>
     2025
 </h3>
-<img src="../papers/snapshot/josh_aaai_2025.png" style="float:left;display:block;margin-right:15px" height="100" width="100" loading="lazy" />
+<img src="../papers/snapshot/qianhui_mia_2025.png" style="float:left;display:block;margin-right:15px" height="100" width="100" loading="lazy" />
 ScanAhead: Simplifying standard plane acquisition of fetal head ultrasound,<br />
 <span class="text-light"><b>Qianhui Men</b>, He Zhao, Lior Drukker, Aris T. Papageorghiou, J. Alison Noble</span><br />
 <i>Medical Image Analysis, vol. 104, 103614, 2025</i>
