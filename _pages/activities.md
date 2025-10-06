@@ -43,5 +43,5 @@ permalink: /activities/
 ### Awards
 * <a href="https://miccai.org/index.php/about-miccai/awards/medical-image-analysis-best-paper-award/#:~:text=multi%2Dparameter%20mapping.-,Runners%20up%3A,Chuan%20Sheng%20Foo%2C%20Pavitra%20Krishnaswamy.">MedIA Best Paper Award Runners-up (2023)</a>
 * <a href="https://miccai.org/index.php/about-miccai/awards/best-paper-award-and-young-scientist-award/">MICCAI Yong Scientist Award (2022)</a>
-* <a href="https://www.cgs-network.org/cgi19/">Best Paper Award, Computer Graphics International (2019)</a>
+* <a href="https://cgs-network.org/legacy/cgi19/CGI19-home.html">Best Paper Award, Computer Graphics International (2019)</a>
 </div>
